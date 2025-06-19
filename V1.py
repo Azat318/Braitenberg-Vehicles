@@ -10,7 +10,7 @@ pygame.font.init()
 WIDTH, HEIGHT = 600, 600
 FPS = 120
 
-# Colors
+
 WHITE = (255, 255, 255)
 YELLOW = (255, 255, 0)
 GREEN = (0, 255, 0)
